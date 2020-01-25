@@ -44,3 +44,29 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+  src/assets/.gitkeep
+  src/environments/environment.prod.ts
+ src/environments/environment.ts
+ src/favicon.ico
+ src/index.html
+ src/main.ts
+  src/polyfills.ts
+  src/styles.scss
+ src/test.ts
+ tsconfig.app.json
+ tsconfig.json
+ tsconfig.spec.json
+ tslint.json
+ README.md
+angular.json
+  browserslist
+e2e/protractor.conf.js
+e2e/src/app.e2e-spec.ts
+e2e/src/app.po.ts
+  e2e/tsconfig.json
+ karma.conf.js
+ package-lock.json
+package.json
+ src/app/app-routing.module.ts
+
